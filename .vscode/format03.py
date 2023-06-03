@@ -1,0 +1,3 @@
+# STRINGS
+
+print('ola mundo')

@@ -1,3 +1,5 @@
+// calculando tempo e velocidade.
+
 def calcular_tempo_viagem(distancia, velocidade_media):
     tempo = distancia / velocidade_media
     return tempo
